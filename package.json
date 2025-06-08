@@ -1,1 +1,12 @@
-
+{
+  "name": "n8n-image-uploader",
+  "version": "1.0.0",
+  "description": "Image upload service for n8n automation",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.0.0"
+  }
+}
